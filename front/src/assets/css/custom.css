@@ -1,0 +1,10 @@
+h2.principal {
+    display: initial;
+    padding: 7px;
+}
+.textmsj {
+    height: 10rem
+}
+.input-group-append {
+    cursor: pointer;
+  }
